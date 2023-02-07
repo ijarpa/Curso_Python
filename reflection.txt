@@ -1,0 +1,19 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+with the chemistry code I saw really how the functions can be powerful, 
+how they can help you to have a clean code, and re use functions with different parameters
+
+2. In your judgment, what is the value of test functions?
+
+test functions are very important to quality assurance and prevent any kind of mistake in the code
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+you can use the technique of handle errors with "try and except" to see what error the program 
+have and write a condition or a message when the program is not working. 
+Also, you can use the debug option in VScode to see  what part of the program is not working correctly.
