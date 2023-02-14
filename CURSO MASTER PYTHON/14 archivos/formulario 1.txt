@@ -1,0 +1,5 @@
+Nombre: Ivan Jarpa    Edad: 27      Pais: Chile
+Nombre: Natalia Salazar    Edad: 26      Pais: Alemania
+Nombre: Maria Paz Salazar    Edad: 19      Pais: Peru
+Nombre: Cacalia Salazar    Edad: 25      Pais: Alemania
+Nombre: Pedro Caponi    Edad: 54      Pais: Puerto Rico
