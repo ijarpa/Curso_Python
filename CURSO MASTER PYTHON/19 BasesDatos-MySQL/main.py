@@ -31,3 +31,8 @@ CREATE TABLE IF NOT EXISTS vehiculos(
 )"""
 )
 
+cursor.execute("INSERT INTO vehiculos VALUES(null, 'opel', 'Astra', 18500)")
+
+database.commit()
+
+
